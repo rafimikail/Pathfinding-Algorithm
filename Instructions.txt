@@ -1,0 +1,27 @@
+-----------INSTRUCTION------------
+
+HOW TO OPEN FILE IN JUPYTER NOTEBOOK : 
+
+1) INSTALL JUPYTER NOTEBOOK
+
+The easiest way to get started 
+with Jupyter Notebooks is by installing Anaconda.
+
+1. Download the latest version of Anaconda for Python 3.
+2. Install Anaconda by following the instruction on the download page.
+
+or 
+
+pip install jupyter
+
+2) OPEN JUPYTER NOTEBOOK
+3) SELECT THE PROGRAM FILE named "ALGO PROJECT IN JUPYTER"
+
+
+NOTE : We highly recommend to open the program file in jupyter,
+because we use some data visualization which is better to perform in Jupyter because
+it could show data visualization in same environment
+
+IF YOU JUST WANT TO OPEN WITH THE PY FILE FORMAT, YOU CAN JUST RUN 
+"ALGO PROJECT IN PY" IN ANY PYTHON CODE EDITOR
+
